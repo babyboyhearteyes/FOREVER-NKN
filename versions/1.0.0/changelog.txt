@@ -1,1 +1,7 @@
+#Minecat Realm: FOREVER - Version 1.0.0
+
 Lots of stuff is happening... Quite frankly.
+
+- Initial release
+- Added core mods
+- World generation configured
